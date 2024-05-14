@@ -1,0 +1,27 @@
+.search-bar {
+  margin-bottom: 20px;
+}
+
+.search-input {
+  width: calc(100% - 25px);
+  padding: 10px;
+  border: 1px solid #ddd;
+  outline: none;
+}
+
+.search-btn:hover {
+  background-color: #286090;
+}
+
+.clear-button {
+  margin-right: 5px;
+  background-color: #ccc;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.clear-button:hover {
+  background-color: #bbb;
+}

@@ -1,0 +1,10 @@
+.archived-notes-page {
+  padding: 20px;
+}
+
+.notes-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
