@@ -3,10 +3,6 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Contributors](https://img.shields.io/github/contributors/username/react-spa)
-![Issues](https://img.shields.io/github/issues/username/react-spa)
-![Last Commit](https://img.shields.io/github/last-commit/username/react-spa)
-![Code Quality](https://img.shields.io/codacy/grade/xxxxxxxxxxxx) <!-- Replace with actual Codacy ID -->
 
 React SPA is a modern single page application built using React. This application demonstrates the power of React in creating fast and responsive web applications.
 
@@ -48,7 +44,7 @@ You need to have Node.js and npm installed on your machine.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/username/react-spa.git
+   git clone https://github.com/Malikusfz/react-spa.git
    ```
 
 2. Navigate to the project directory
@@ -91,4 +87,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Malikus Syafaadi Nurfaza - [LinkedIn](https://www.linkedin.com/in/malikussyafaadinurfaza/)
 
-Project Link: [https://github.com/username/react-spa](https://github.com/username/react-spa)
+Project Link: [https://github.com/Malikusfz/react-spa](https://github.com/Malikusfz/react-spa)
