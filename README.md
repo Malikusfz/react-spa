@@ -30,6 +30,7 @@ React SPA is a modern single page application built using React. This applicatio
 - Vite
 - JavaScript
 - CSS
+- HTML
 
 ## Getting Started
 
